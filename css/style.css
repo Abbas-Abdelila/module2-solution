@@ -28,9 +28,9 @@ header{
 }
 
 .class1, .class2,.class3{
-    background-color: rgb(78, 139, 163);
-    color: white;
-    border: 1px solid black;
+    background-color: rgb(159, 172, 177);
+    
+    border: 3px solid black;
     
     
 }
