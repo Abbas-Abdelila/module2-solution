@@ -30,7 +30,7 @@ header{
 .class1, .class2,.class3{
     background-color: rgb(159, 172, 177);
     
-    border: 3px solid black;
+    border: 1px solid black;
     
     
 }
@@ -82,8 +82,7 @@ p{
 @media (min-width: 992px){
     .container1, .container2, .container3{
         float: left;
-        padding: 10PX;
+        padding: 10px;
         width: 33.33%;
     }
 }
-
